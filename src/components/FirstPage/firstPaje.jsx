@@ -56,7 +56,7 @@ const FirstPage = () => {
                                 <div className="pulse d-flex ms-4">
                                     <img className="pulse2 img-fluid p-2" src={Foto} alt="" />
                                 </div>
-                                <h1 className="iconeFoto">Eu amo <span className="spanIcone"></span></h1>
+                                <h1 className="iconeFoto">Eu amo<span className="spanIcone"></span></h1>
                             </div>
                         </div>
                     </div>
