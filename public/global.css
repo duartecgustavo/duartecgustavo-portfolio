@@ -8,7 +8,7 @@
 }
 
 .App{
-    background-color: #292931;
+    background-color: #292931 !important;   
 }
 
 /* SCROOLBAR */
@@ -625,6 +625,10 @@ textarea:hover::placeholder{
     height: 101;
     width: 94% !important;
     background-color:#272731;
+}
+.ajusteFooter{
+    background-color:#272731 !important;
+    height: 12vh;
 }
 /* Coração */
 

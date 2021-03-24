@@ -3,8 +3,8 @@ import React from "react";
 const skills = () => {
   return(
   <>
-    <div className="area-home-col col-sm-12 col-md-12 d-flex align-items-center justify-content-center pb-3">
-        <div className=" text-center">
+    <div className="area-home-col col-sm-12 col-md-12 d-flex align-items-center justify-content-center pb-3 ajustesSkills">
+        <div className="text-center">
 
             <table className="text-left">
             <tr>

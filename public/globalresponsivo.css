@@ -1,0 +1,67 @@
+/* MENU DESKTOP */
+@media (max-width: 900px) {
+  #desktop {
+    display: none !important;
+  }
+
+  #ajustes {
+    width: 100% !important;
+  }
+  .workspaceFP {
+    width: 100% !important;
+  }
+  .workspaceSP {
+    width: 100% !important;
+  }
+  .workspaceTP {
+    width: 100% !important;
+  }
+  .tituPerfil1 {
+    font-size: 15px;
+  }
+  .tituPerfil2 {
+    font-size: 15px;
+  }
+  .tituloAnimaNome {
+    font-size: 30px;
+  }
+  .sobre {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .pulse {
+    width: 250px;
+    height: 250px;
+  }
+  .pulse2 {
+    width: 250px;
+    height: 250px;
+  }
+  .iconeFoto {
+    font-size: 18px;
+  }
+  .ajustesButton {
+    height: 10vh !important;
+    padding-top: none !important;
+  }
+  .ajusteSkills {
+    height: 60vh !important;
+  }
+  .tituloMSG {
+    margin-bottom: 30px;
+  }
+  .containerMSG {
+    margin-bottom: 30px;
+  }
+  /* #ajusteFooter{
+    display: none !important;
+  } */
+}
+
+/* MENU DEVICE */
+
+@media (min-width: 900px) {
+  #phone {
+    display: none !important;
+  }
+}

@@ -3,7 +3,7 @@ import React from "react";
 const IconesMensagem = () => {
   return (
     <>
-        <ul className="d-flex justify-content-around" data-aos="fade-left">
+        <ul className="d-flex justify-content-around" data-aos="fade-left" id="desktop">
             <li>
                 <label>
                     <input type="checkbox" name=""/>

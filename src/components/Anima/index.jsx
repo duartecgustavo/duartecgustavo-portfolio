@@ -14,7 +14,6 @@ const anima = () => {
                     <div className="textLazy">LOADING</div>
                     <div className="ring"></div>
                 </div>
-                {/* <img className="h-100" src="imgs/this-is-my-coding-face.gif"/> */}
             </div>
         </div>
     )
