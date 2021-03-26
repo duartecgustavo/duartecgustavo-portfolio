@@ -33,7 +33,7 @@ Este projeto se trata de um espaço que criei para compartilhar e organizar as i
 
 > Gosto de chamar essa primeira versão de meu site de BETA, pois é a primeira que considero apresentável, porém ainda tenho diversas otimizações e implementações que vou fazer ao longo do tempo.
 
-### Ultimas atualizações (antes de 24/03/21) :wrench: ;
+### Ultimas atualizações (antes de 24/03/21) :wrench: :white_check_mark: ;
 - [x] Responsividade total.
 - [x] Corrigir download do CV para automático quando clicar.
 - [x] Hospedar site (heroku).
