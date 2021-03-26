@@ -60,4 +60,9 @@ Este projeto se trata de um espaço que criei para compartilhar e organizar as i
 
 ---
 
+### Referências:
+* Portfólios:
+  * https://thaysouza.github.io/
+  * https://emyslandim.com/
+
 [:arrow_left:](https://github.com/duartecgustavo)
