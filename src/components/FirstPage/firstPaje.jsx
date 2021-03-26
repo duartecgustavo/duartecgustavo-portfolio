@@ -45,7 +45,7 @@ const FirstPage = () => {
                                     <h1 className="font-weight-bold tituloAnimaNome mb-4" style={{ color: "#7D50F9" }}>GUSTAVO CASTANHO</h1>
 
                                     <p className="sobre text-justify">
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fala Dev! Seja muito bem vindo,
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fala Dev! Seja bem vindo,
                                         sou um desenvolvedor Full Stack de 22 anos e completamente apaixonado pela área da
                                         tecnologia. Aqui estão as principais tecnologias em que desenvolvo, pratico e aprendo no meu dia a dia. Também estão
                                         alguns projetos que já desenvolvi além de um pouco de minha formação.

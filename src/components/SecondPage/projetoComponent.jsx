@@ -17,10 +17,7 @@ const ProjetoComponent = (props) => {
         </div>
         
         <p style={{color:"white", textAlign:"justify"}}>
-            Fusce tempor magna mi, non egestas velit ultricies nec. Aenean
-            convallis, risus non condimentum gravida, odio. Mauris ullamcorper
-            felis, ut venenatis purus ex eu mi. Quisque imperdiet lacinia urna, a
-            placerat sapien pretium eu.
+            {props.txt}
         </p>
         <div className="linha mb-4"></div>
         <a href={props.link} target="_blanck" style={{textDecoration:"none"}}>
