@@ -6,7 +6,7 @@
 <h1 align="center"> Oque é? :bulb: </h1>
 
 <div align="center">
-Este projeto se trata de um espaço que criei para compartilhar e organizar as informações que penso ser relevantes sobre mim, principalmente profissionalmente.
+Este projeto se trata de um espaço que criei para compartilhar e organizar as informações profissionais que penso serem relevantes sobre mim.
 </div>
 
 ---
@@ -23,3 +23,38 @@ Este projeto se trata de um espaço que criei para compartilhar e organizar as i
  <img width="100px" style="margin: 10px 40px 10px 40px;" src="https://user-images.githubusercontent.com/65131471/99868358-a05ad080-2ba0-11eb-9366-23089497815b.png">
  <img width="100px" style="margin: 10px 40px 10px 40px;" src="https://user-images.githubusercontent.com/65131471/100674414-dab43280-3343-11eb-97ac-7b2e9f622ff5.png">
 </div>
+
+> Acima estão às tecnologias que utilizei para o desenvolvimento do site.
+
+* Linguagem de marcação - HTML.
+* Design e Responsividade - CSS + Bootstrap.
+* Otimizações - React + JSX(Babel).
+* Javascript - Puro.
+
+> Gosto de chamar essa primeira versão de meu site de BETA, pois é a primeira que considero apresentável, porém ainda tenho diversas otimizações e implementações que vou fazer ao longo do tempo.
+
+### Ultimas atualizações (antes de 24/03/21) :wrench: ;
+- [x] Responsividade total.
+- [x] Corrigir download do CV para automático quando clicar.
+- [x] Hospedar site (heroku).
+
+### Próximas atualizações (até 25/04/21) :wrench: ;
+- [ ] Envio de mensagens para banco de dados (feedback), através de api em NodeJS.
+- [ ] Surgir mensagem enviada para que o usuario veja (através de React Hooks).
+- [ ] Adicionar contador de Likes.
+- [ ] Colocar botão de duvida nas mensagens com dicas para pessoa digitar.
+- [ ] Adicionar projeto de Python e espaço para mais dois na parte de projetos.
+- [ ] Hospedar FullStackEletro e corrigir Repara.
+
+### Atualizações ainda mais futuras :wrench: ;
+- [ ] Função mudar de idioma.
+- [ ] Função mudar iluminação(darkmode).
+
+> Além dessas futuras implementações, pretendo expandir ainda mais este projeto em varias vertentes. Aguardem.
+
+
+### Link para o portfólio: [<img width="30px" src="https://gustavo-castanho.herokuapp.com/">].
+
+---
+
+[:arrow_left:](https://github.com/duartecgustavo)
