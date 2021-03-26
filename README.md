@@ -56,7 +56,7 @@ Este projeto se trata de um espaço que criei para compartilhar e organizar as i
 > Além dessas futuras implementações, pretendo expandir ainda mais este projeto em varias vertentes. Aguardem.
 
 
-### Link para o portfólio: [<img width="30px" src="https://gustavo-castanho.herokuapp.com/">].
+### Link para o portfólio: [:vulcan_salute:](https://gustavo-castanho.herokuapp.com/)
 
 ---
 
