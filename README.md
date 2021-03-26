@@ -24,6 +24,9 @@ Este projeto se trata de um espaço que criei para compartilhar e organizar as i
  <img width="100px" style="margin: 10px 40px 10px 40px;" src="https://user-images.githubusercontent.com/65131471/100674414-dab43280-3343-11eb-97ac-7b2e9f622ff5.png">
 </div>
 
+<br/>
+<br/>
+
 > Acima estão às tecnologias que utilizei para o desenvolvimento do site.
 
 * Linguagem de marcação - HTML.
