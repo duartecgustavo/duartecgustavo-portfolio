@@ -65,4 +65,7 @@ Este projeto se trata de um espaço que criei para compartilhar e organizar as i
   * https://thaysouza.github.io/
   * https://emyslandim.com/
 
+* Animações:
+  * https://github.com/MilenaCarecho/30diasDeCSS  
+
 [:arrow_left:](https://github.com/duartecgustavo)
