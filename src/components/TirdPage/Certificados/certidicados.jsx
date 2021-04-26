@@ -26,16 +26,7 @@ const Certificados = () => {
                                 <img src={RecodePro} className="img-fluid" />
                             </div>
                             <div className="my-2 shadow">
-                                <img src={HackthonRecodePro} className="img-fluid" />
-                            </div>
-                            <div className="my-2 shadow">
                                 <img src={Etec} className="img-fluid" />
-                            </div>
-                            <div className="my-2 shadow">
-                                <img src={TecExp} className="img-fluid" />
-                            </div>
-                            <div className="my-2 shadow">
-                                <img src={GestImpc} className="img-fluid" />
                             </div>
                             <div className="my-2 shadow">
                                 <img src={CVJavascript} className="img-fluid" />
@@ -45,6 +36,15 @@ const Certificados = () => {
                             </div>
                             <div className="my-2 shadow">
                                 <img src={CVPython2} className="img-fluid" />
+                            </div>
+                            <div className="my-2 shadow">
+                                <img src={HackthonRecodePro} className="img-fluid" />
+                            </div>
+                            <div className="my-2 shadow">
+                                <img src={TecExp} className="img-fluid" />
+                            </div>
+                            <div className="my-2 shadow">
+                                <img src={GestImpc} className="img-fluid" />
                             </div>
 
                         </div>
