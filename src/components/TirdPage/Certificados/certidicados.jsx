@@ -5,6 +5,7 @@ import HackthonRecodePro from "./certificados/Certificado-Hackthon-Recode-Pro-20
 import Etec from "./certificados/Certificado-ETEC.png"
 import TecExp from "./certificados/Certificado-Tecnologias-Exponenciais.png"
 import GestImpc from "./certificados/Gestão-Projetos-Impacto-Recode.png"
+import CVJavascript from "./certificados/Certificado-Javascript-Curso-em-video.png"
 import CVPython1 from "./certificados/Certificado-Curso-Video-Python-Mundo-1.png"
 import CVPython2 from "./certificados/Certificado-Curso-Video-Python-Mundo-2.png"
 
@@ -35,6 +36,9 @@ const Certificados = () => {
                             </div>
                             <div className="my-2 shadow">
                                 <img src={GestImpc} className="img-fluid" />
+                            </div>
+                            <div className="my-2 shadow">
+                                <img src={CVJavascript} className="img-fluid" />
                             </div>
                             <div className="my-2 shadow">
                                 <img src={CVPython1} className="img-fluid" />
